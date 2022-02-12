@@ -1,6 +1,6 @@
 1. **NOTE**
-  Upgrade androidx
-  Support vector type icon
+  - Upgrade androidx
+  - Support vector type icon
 
 MaterialEditText
 ================
